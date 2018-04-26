@@ -1,0 +1,25 @@
+ul.none {
+    list-style-type: none;
+}
+nav{
+    display: flex;
+    justify-content: flex-end;
+}
+nav li{
+    display:inline-block;
+    margin: 0 10px;
+}
+section{
+    width: 1349px;
+    height: 231px;
+    display: flex;
+    align-items:center;
+    justify-content: center;
+}
+.pesquisa{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+

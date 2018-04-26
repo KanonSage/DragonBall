@@ -1,0 +1,24 @@
+*{
+    padding: 0px;
+    margin: 0px;
+}
+body{
+    background-color: black;
+}
+.hover:hover{
+    opacity: 1.00 !important;
+}
+.hover{
+    opacity: 0.65;
+    width: 10%;
+    float: left;
+    cursor: pointer;
+    -moz-transition:opacity .4s ease-in;
+    -o-transition:opacity .4s ease-in;
+    -webkit-transition:opacity .4s ease-in;
+}
+#col{
+    min-width: 100%;
+    margin: 2px;
+}
+

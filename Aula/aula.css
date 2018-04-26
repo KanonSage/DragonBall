@@ -1,0 +1,21 @@
+
+*{
+    margin: 0px;
+    padding: 0px;
+}
+#noticia{
+    border: 1px solid coral;
+    width: 100%;
+}
+.col-1{
+    float: right;
+    text-align: right;
+}
+.col-2{
+    margin-top: 25px;
+    float: left;
+}
+
+.titulo{
+    margin-bottom: 20px;
+}
